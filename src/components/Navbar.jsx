@@ -6,7 +6,7 @@ const Navbar = () => {
 <nav className="navbar navbar-expand-lg sticky-top bg-white">
   <div className="container">
     <button className="navbar-brand anchor">
-    <a href="#"><img src="images/bella2.png" alt="logo" width="206" height="101"></img></a>
+    <a href="/#"><img src="images/bella2.png" alt="logo" width="206" height="101"></img></a>
       
     </button>
     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
