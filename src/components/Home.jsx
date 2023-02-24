@@ -4,7 +4,7 @@ const Home = () => {
   return (
     <>
      <div >
-      <img src="images/food.png" className='img-fluid bg ' alt="food image"></img>
+      <img src="images/food.png" className='img-fluid bg ' alt="food"></img>
       <div className="position-absolute overlay text-center">
       <div div className="row pt-5">
           <div className='text-center text-wrap col-md-6 mx-auto '>
