@@ -1,11 +1,14 @@
 
 /*//////////////////////////////////////////Navbar////////////////////////////////////*/
-#orange{
-    color:#FA4A0C;
-}
-
 .poppins{
     font-family: 'Poppins',sans-serif;
+}
+.anchor{
+    background-color: white;
+    border: none;
+}
+.blue{
+    color:#252B42;
 }
 
 li{

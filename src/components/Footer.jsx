@@ -3,7 +3,7 @@ import React from 'react'
 const Footer = () => {
   return (
     <>
-        <div className='min-vw-100 footer img-fluid bg mt-5 '>
+        <div className='min-vw-100 footer img-fluid bg mt-5 ' id="Contact">
     <div className="mask d-flex align-items-center">
     <div className="text-center mx-auto text-wrap">
     <h1 className='text-white fw-bold pb-5 '>Download the app now</h1>
