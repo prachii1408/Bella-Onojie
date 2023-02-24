@@ -15,16 +15,16 @@ const Navbar = () => {
     <div className="collapse navbar-collapse" id="navbarTogglerDemo02">
       <ul className="navbar-nav ms-auto mb-2 mb-lg-0">
         <li className="nav-item">
-          <button className="nav-link active anchor" id="orange" aria-current="page" ><a href="#" className='text-decoration-none red '>Home</a></button>
+          <button className="nav-link active anchor red" id="orange" aria-current="page" ><a href="/#" className='text-decoration-none red '>Home</a></button>
         </li>
         <li className="nav-item">
-          <button className="nav-link active anchor" aria-current="page"><a href="#" className='text-decoration-none blue'>Product</a> </button>
+          <button className="nav-link active anchor" aria-current="page"><a href="/#" className='text-decoration-none blue'>Product</a> </button>
         </li>
         <li className="nav-item">
-          <button  className="nav-link active anchor" aria-current="page"><a href="#" className='text-decoration-none blue '>Faq</a></button>
+          <button  className="nav-link active anchor" aria-current="page"><a href="/#" className='text-decoration-none blue '>Faq</a></button>
         </li>
         <li className="nav-item">
-          <button  className="nav-link active anchor" aria-current="page" ><a href="#Contact" className='text-decoration-none blue'>Contact</a></button>
+          <button  className="nav-link active anchor" aria-current="page" ><a href="/#Contact" className='text-decoration-none blue'>Contact</a></button>
         </li>
       </ul>
     </div>
